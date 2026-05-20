@@ -1,0 +1,60 @@
+{
+  "intro": {
+    "name": "Kavithma Hiyanthi Athukorala",
+    "headline": "Web Developer, Designer, Quality Assurance Engineer, Business Analyst"
+  },
+  "about": {
+    "title": "About Me",
+    "content": "I'm a Computer Science undergraduate with a strong interest in the technology and computing industry. I enjoy learning how systems work, solving problems, and continuously building my skills through academic projects and hands-on practice. My interests include software development, quality assurance, cloud technologies, and emerging tech trends. I'm motivated by curiosity, growth, and the desire to turn ideas into practical solutions. Currently, I'm focused on strengthening my technical foundation while exploring opportunities to apply my knowledge in real-world environments. I'm always open to learning, collaboration, and new challenges that help me grow as a future tech professional.",
+    "photoUrl": "assets/profile.png"
+  },
+  "skills": {
+    "skills": [
+      { "name": "Project Management", "icon": "fas fa-tasks", "description": "Planning, scheduling, and delivering projects using agile practices." },
+      { "name": "Business Analysis", "icon": "fas fa-clipboard-list", "description": "Requirements gathering, stakeholder analysis, and solution scoping." },
+      { "name": "Quality Assurance", "icon": "fas fa-vial", "description": "Test planning, automation, and quality processes to ensure reliability." },
+      { "name": "UI/UX & Frontend Development", "icon": "fas fa-paint-brush", "description": "Designing interfaces and building frontend experiences with HTML/CSS/JS." },
+      { "name": "Java", "icon": "fab fa-java", "description": "Object-oriented programming, backend services, and tooling." },
+      { "name": "JavaScript", "icon": "fab fa-js", "description": "Client-side scripting and server-side with Node.js." },
+      { "name": "React (Vite)", "icon": "fab fa-react", "description": "Building component-based UIs and single-page apps using Vite." },
+      { "name": "C", "icon": "fas fa-code", "description": "Procedural programming and low-level system concepts." },
+      { "name": "REST API Integration", "icon": "fas fa-network-wired", "description": "Designing and consuming RESTful APIs with JSON." },
+      { "name": "HTML & CSS", "icon": "fab fa-html5", "description": "Semantic markup and responsive styling for web interfaces." },
+      { "name": "FastAPI", "icon": "fas fa-bolt", "description": "High-performance Python APIs and async endpoints." },
+      { "name": "SQLAlchemy & PostgreSQL", "icon": "fas fa-database", "description": "ORM modeling and relational database design with PostgreSQL." },
+      { "name": "Backend & Databases", "icon": "fas fa-server", "description": "Server-side logic, persistence, and API development." },
+      { "name": "Git & GitHub", "icon": "fab fa-git-alt", "description": "Version control, branching, and collaboration workflows." },
+      { "name": "GitHub Actions / CI-CD", "icon": "fab fa-github", "description": "Automated builds, tests, and deployment pipelines." },
+      { "name": "JIRA", "icon": "fas fa-clipboard", "description": "Issue tracking and agile project management." },
+      { "name": "PyTest", "icon": "fas fa-vial", "description": "Python testing framework for unit and integration tests." },
+      { "name": "Selenium", "icon": "fas fa-desktop", "description": "Browser automation for end-to-end UI testing." },
+      { "name": "JMeter", "icon": "fas fa-tachometer-alt", "description": "Performance and load testing for web applications." },
+      { "name": "Swagger / OpenAPI", "icon": "fas fa-file-contract", "description": "API documentation and contract-first design (OpenAPI)." },
+      { "name": "Clerk Authentication", "icon": "fas fa-user-lock", "description": "Third-party authentication and user management." },
+      { "name": "Blender & Unity", "icon": "fas fa-cube", "description": "3D content creation and basic game development workflows." }
+    ]
+  },
+  "education": {
+    "education": [
+      { "degree": "Computer Science Undergraduate", "year": "2023 - 2027", "institution": "Srilanaka Institute of Information Technology", "description": "Currently pursuing a B.Sc. in Computer Science with a focus on software development, systems, and testing." }
+    ]
+  },
+  "experience": {
+    "title": "Intern (Software Development & QA)",
+    "description": "Currently an intern gaining hands-on experience in software development, quality assurance, and collaborative project work.",
+    "duration": "Internship"
+  },
+  "certifications": {
+    "items": [
+      "Foundation of project management from Google",
+      "Cre8X 2.0 – UI/UX Designathon Pre-Task Participation Certificate",
+      "IDEALIZE 2024 organized by AIESEC in University of Moratuwa - Market Phase Participation"
+    ]
+  },
+  "social": {
+    "links": [
+      { "name": "GitHub", "url": "https://github.com/it23613072", "icon": "fab fa-github" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/kavithma-athukorala-714464289", "icon": "fab fa-linkedin" }
+    ]
+  }
+}

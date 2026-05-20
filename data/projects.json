@@ -1,0 +1,55 @@
+[{
+    "id": "kavi-todo",
+    "title": "Kavi's To-Do app",
+    "description": "A productivity application developed to simplify daily tasks through a cute and interactive sticky todo interface with persistent storage and reminder features. Designed as a desktop sticky todo application with a cloud-themed UI using Node.js, HTML, CSS, and JavaScript. Implements persistent local storage, reminders, due dates, task completion tracking, deletion, and an always-on-top window for quick access.",
+    "technologies": "Node.js,HTML,CSS,JavaScript,LocalStorage,Electron",
+    "link": "https://github.com/it23613072/Todo-app.git",
+    "images": [],
+    "video": "",
+    "category": "desktop",
+    "featured": true
+  },
+  {
+    "id": "testlang",
+    "title": "TestLang++ — HTTP API Testing DSL",
+    "description": "Developed a custom Domain-Specific Language (DSL) for automated HTTP API testing. Implemented a compiler using JFlex and CUP to translate .test files into executable JUnit 5 test classes. Built support for GET/POST/PUT/DELETE requests with response validation, semantic validation (syntax checking, duplicate detection, variable substitution), and a Spring Boot backend simulator for integration testing. Automated compilation and test generation with Maven and Java HttpClient.",
+    "technologies": "Java,JFlex,CUP,JUnit5,Spring Boot,Maven,HttpClient",
+    "link": "https://github.com/it23613072/Assignment.git",
+    "images": [],
+    "video": "",
+    "category": "tool",
+    "featured": true
+  },
+  {
+    "id": "strike",
+    "title": "Strike",
+    "description": "Group project: Shoe Store e‑commerce system with extensive testing. Implemented PyTest-based unit tests for a FastAPI backend, built and tested JWT authentication endpoints (/auth/register, /auth/login) using httpx.AsyncClient, applied mocking and time-based token expiry tests, and ensured API reliability and security through structured test coverage.",
+    "technologies": "Python,FastAPI,PyTest,JWT,httpx",
+    "link": "https://github.com/s-sandali/STRIKE.git",
+    "images": ["images/strike.png"],
+    "video": "",
+    "category": "group",
+    "featured": false
+  },
+  {
+    "id": "bigo",
+    "title": "BIGO",
+    "description": "Worked in multiple Agile roles (Business Analyst, QA, DevOps, Developer). Developed an XP reward system and student performance dashboard using React. Performed unit, integration, E2E and API testing; configured CI/CD with GitHub Actions, Slack notifications, and JMeter reporting; managed sprint planning, acceptance criteria, and documentation.",
+    "technologies": "React,CI/CD,GitHub Actions,JMeter,Swagger",
+    "link": "https://github.com/s-sandali/ALEMS-frontend.git",
+    "images": [],
+    "video": "",
+    "category": "group",
+    "featured": false
+  },
+  {
+    "id": "distributed-payments",
+    "title": "Distributed Payment Processing System",
+    "description": "Team project building a fault-tolerant payment processing system for e-commerce platforms. Implemented consensus (Raft) leader election and transaction replication, vector and Lamport clock synchronization, failover and recovery, and tested reliability using PyTest. Built using Python, gRPC, and distributed systems techniques.",
+    "technologies": "Python,gRPC,Raft,PyTest,Distributed Systems",
+    "link": "https://github.com/sandil2003/Distributed-System-Project-SE2062.git",
+    "images": [],
+    "video": "",
+    "category": "group",
+    "featured": false
+  }]
