@@ -38,7 +38,8 @@
     "technologies": "React,CI/CD,GitHub Actions,JMeter,Swagger",
     "link": "https://github.com/s-sandali/ALEMS-frontend.git",
     "images": [],
-    "video": "",
+    "video": "images/Bigo.mp4",
+    "videoUrl": "images/Bigo.mp4",
     "category": "group",
     "featured": false
   },
