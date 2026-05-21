@@ -5,8 +5,9 @@
     "technologies": "Node.js,HTML,CSS,JavaScript,LocalStorage,Electron",
     "link": "https://github.com/it23613072/Todo-app.git",
     "images": [],
-    "video": "",
-    "category": "desktop",
+    "video": "images/todoapp.mp4",
+    "videoUrl": "images/todoapp.mp4",
+    "category": "web",
     "featured": true
   },
   {
@@ -17,7 +18,7 @@
     "link": "https://github.com/it23613072/Assignment.git",
     "images": [],
     "video": "",
-    "category": "tool",
+    "category": "tools",
     "featured": true
   },
   {
@@ -28,7 +29,7 @@
     "link": "https://github.com/s-sandali/STRIKE.git",
     "images": ["images/strike.png"],
     "video": "",
-    "category": "group",
+    "category": "web",
     "featured": false
   },
   {
@@ -40,7 +41,7 @@
     "images": [],
     "video": "images/Bigo.mp4",
     "videoUrl": "images/Bigo.mp4",
-    "category": "group",
+    "category": "web",
     "featured": false
   },
   {
@@ -51,6 +52,70 @@
     "link": "https://github.com/sandil2003/Distributed-System-Project-SE2062.git",
     "images": [],
     "video": "",
-    "category": "group",
+    "category": "web",
     "featured": false
-  }]
+  },
+  {
+    "id": "athukorala-traders",
+    "title": "Athukorala Traders – Hardware Store Management & E-Commerce System",
+    "description": "Collaboratively designed the system in Figma and developed a responsive web application for a hardware trading business. Implemented customer-facing features including product browsing, advanced search and filtering, shopping cart management, and purchase order functionality. Developed an administrative dashboard with sales analytics, product management, promotion tracking, activity monitoring, and data visualization features. Enhanced user experience through modern UI/UX design, responsive layouts, interactive components, and optimized performance using React and JavaScript.",
+    "technologies": "Figma,React,JavaScript,HTML,CSS,Responsive Design,UI/UX Design,Local Storage",
+    "link": "https://github.com/Practical-03-SE2072/AthukoralaTraders.git",
+    "images": ["images/athukorala traders.png"],
+    "video": "",
+    "videoUrl": "",
+    "category": "web",
+    "featured": false
+  },
+  {
+    "id": "archi-ai",
+    "title": "Archi AI – AI-Powered Architectural Design Platform",
+    "description": "Collaboratively designed Archi AI in Figma; an application that assists architecture students and professionals in generating architectural design concepts using AI. Contributed to UI/UX design, wireframing, prototyping, and user flow development. Focused on creating a modern, accessible, and user-centered platform that streamlines the architectural design process.",
+    "technologies": "Figma,UI/UX,Prototyping,AI-assisted Design,Wireframing",
+    "link": "https://www.figma.com/proto/c8AtVjq3gzabj5hKZ5ZXwq/Archi-ai?node-id=32-2&t=fmkla0Og3aEpKBVP-1",
+    "images": ["images/arch.png"],
+    "video": "",
+    "videoUrl": "",
+    "category": "mobile",
+    "featured": false
+  }
+  ,
+  {
+    "id": "eco-aqua-guardian",
+    "title": "Eco Aqua Guardian",
+    "description": "Eco Aqua Guardian is an eco-friendly water filtration system developed using clay, designed to provide safe and accessible drinking water for rural communities. The system features automated water dispensing, water purity indication, a replaceable filter cartridge for easy maintenance, and a portable tabletop design. It supports both manual water filling and continuous operation through a solenoid valve connection, combining sustainability, functionality, and user-centered design in a practical water purification solution.",
+    "technologies": "Embedded Systems,Microcontroller,Water Sensors,Solenoid Valve,Mechanical Design,Electronics,Clay Filtration",
+    "link": "",
+    "images": [],
+    "video": "images/eco aqua quardian.mp4",
+    "videoUrl": "images/eco aqua quardian.mp4",
+    "category": "products",
+    "featured": false
+  }
+  ,
+  {
+    "id": "scoopland",
+    "title": "Scoopland — Ice Cream Shop UI/UX Design",
+    "description": "Scoopland is a modern and interactive mobile application prototype designed in Figma for an online ice cream ordering experience. Users can browse ice cream flavors and products, view item details, select favorites, add products to the cart, and manage orders. The interface emphasizes intuitive navigation, visually appealing layouts, and a user-friendly shopping experience.",
+    "technologies": "Figma,UI/UX,Mobile Design,Prototype",
+    "link": "",
+    "images": [],
+    "video": "images/scoopland.mp4",
+    "videoUrl": "images/scoopland.mp4",
+    "category": "mobile",
+    "featured": false
+  }
+  ,
+  {
+    "id": "world-of-worlds",
+    "title": "World of Worlds – 3D Adventure Game (Group Project)",
+    "description": "Collaborated in developing a 3D game using Unity and Blender. Created and modeled game assets, environments, and objects using Blender. Contributed to game development, scene design, and gameplay implementation in Unity. Worked with team members to build an interactive and engaging gaming experience.",
+    "technologies": "Unity,Blender,C#,3D Modeling,Game Development",
+    "link": "",
+    "images": [],
+    "video": "",
+    "videoUrl": "",
+    "category": "web",
+    "featured": false
+  }
+]
